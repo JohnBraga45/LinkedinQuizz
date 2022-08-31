@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 <h2 id="resultados">Resultados de Desenvolvimento</h2> 
 
 <h3 align="center">
-    <img src="src/assets/screen.png" width="700"/>
+    <img src="src/assets/screen.PNG" width="700"/>
 </h3>
 
 
