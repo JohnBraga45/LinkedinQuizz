@@ -16,6 +16,7 @@ You may also see any lint errors in the console.
 
 
 <h2 id="resultados">Resultados de Desenvolvimento</h2> 
+[Ver Resultado](https://johnbraga45.github.io/LinkedinQuizz/)
 
 <h3 align="center">
     <img src="src/assets/screen.PNG" width="700"/>
