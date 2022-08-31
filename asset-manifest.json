@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LinkedinQuizz/static/css/main.073c9b0a.css",
+    "main.js": "/LinkedinQuizz/static/js/main.ccc5d3af.js",
+    "static/js/787.e98aa680.chunk.js": "/LinkedinQuizz/static/js/787.e98aa680.chunk.js",
+    "index.html": "/LinkedinQuizz/index.html",
+    "main.073c9b0a.css.map": "/LinkedinQuizz/static/css/main.073c9b0a.css.map",
+    "main.ccc5d3af.js.map": "/LinkedinQuizz/static/js/main.ccc5d3af.js.map",
+    "787.e98aa680.chunk.js.map": "/LinkedinQuizz/static/js/787.e98aa680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccc5d3af.js"
+  ]
+}
